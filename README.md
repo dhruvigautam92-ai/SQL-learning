@@ -16,3 +16,9 @@ To build strong SQL fundamentals for data analysis.
 
 ## 🌱 Status
 Learning in progress 🚀
+
+## 📘 Topics covered
+- CREATE TABLE
+- INSERT INTO
+- SELECT
+- WHERE clause
